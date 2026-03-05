@@ -1,0 +1,12 @@
+.pytest_cache
+__pycache__
+
+# Ignorar archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Ignorar archivos de entorno virtual
+venv/
+.venv/
+env/
+.env/
